@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "api.graphql.xyz",
+  "port": 3306,
+  "database": "financas",
+  "username": "root",
+  "password": "",
+  "synchronize": true,
+  "entities": ["./src/models/**/*"],
+  "logging": false
+}
